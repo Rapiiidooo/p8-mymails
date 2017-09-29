@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:ems="10"
+        android:textSize="18sp"
+        android:text="Vincent Le Jeune"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:ems="10"
+        android:textSize="18sp"
+        android:text="Projet Paris 8 Licence 3"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:ems="10"
+        android:textSize="18sp"
+        android:text="Realisation d'application Android"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+
+</LinearLayout>
